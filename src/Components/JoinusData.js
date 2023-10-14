@@ -1,0 +1,47 @@
+export default [
+  {
+    jid: "1st",
+    head: "Commencement of buisness",
+    des: "Invested shareholders must confirm payment and office address",
+    due: "Within 180 days",
+    fees: " for the company",
+    fees1: "1,000/day for directors",
+  },
+  {
+    jid: "2nd",
+    head: "Commencement of buisness",
+    des: "Invested shareholders must confirm payment and office address",
+    due: "Within 180 days",
+    fees: " per month",
+  },
+  {
+    jid: "3rd",
+    head: "Commencement of buisness",
+    des: "Invested shareholders must confirm payment and office address",
+    due: "Within 180 days",
+    fees: " one time",
+  },
+  {
+    jid: "4th",
+    head: "Commencement of buisness",
+    des: "Invested shareholders must confirm payment and office address",
+    due: "Within 180 days",
+    fees: " per month",
+  },
+  {
+    jid: "5th",
+    head: "Commencement of buisness",
+    des: "Invested shareholders must confirm payment and office address",
+    due: "Within 180 days",
+    fees: " per day",
+    fees1: "(No upper limit)*",
+  },
+  {
+    jid: "6th",
+    head: "Commencement of buisness",
+    des: "Invested shareholders must confirm payment and office address",
+    due: "Within 180 days",
+    fees: " per day",
+    fees1: "(No upper limit)*",
+  },
+];
