@@ -10,7 +10,7 @@ export default function Recommend() {
         <div className="flex flex-wrap  gap-4 mt-8 ">
           {RecommendData.map((card, index) => (
             <div
-              className={`rounded-xl w-96  mx-auto shadow-[0_3px_10px_rgb(0,0,0,0.2)]  hover:scale-95`}
+              className={`bg-white  rounded-xl w-96  mx-auto shadow-[0_3px_10px_rgb(0,0,0,0.2)]  hover:scale-95`}
             >
               <img src={card.rimg} className="h-42 w-96 rounded-xl  " />
               <div className="p-3">

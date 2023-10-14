@@ -24,7 +24,7 @@ export default function Details() {
             </div>
             <div>
               <div
-                className={`mt2 rounded-xl w-96  mx-auto shadow-[0_3px_10px_rgb(0,0,0,0.2)] p-6 hover:scale-95`}
+                className={`mt-2 bg-white rounded-xl w-96  mx-auto shadow-[0_3px_10px_rgb(0,0,0,0.2)] p-6 hover:scale-95`}
               >
                 <div className="flex justify-between">
                   <h1>Basic to complex tasks</h1>
@@ -50,7 +50,7 @@ export default function Details() {
             </div>
             <div>
               <div
-                className={`rounded-xl mt-8 w-96  mx-auto shadow-[0_3px_10px_rgb(0,0,0,0.2)] p-6 hover:scale-95`}
+                className={`bg-white  rounded-xl mt-8 w-96  mx-auto shadow-[0_3px_10px_rgb(0,0,0,0.2)] p-6 hover:scale-95`}
               >
                 <div>
                   <h1 className="text-2xl font-bold">What people say ?</h1>

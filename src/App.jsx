@@ -9,7 +9,7 @@ function App() {
   const routes = [{ path: "/details", element: <Details /> }];
   return (
     <BrowserRouter>
-      <div className="bg-gray-50">
+      <div className="bg-gradient-to-br from-pink-50 via-blue-50 to-white">
         <Navbar />
         <Routes>
           <Route path="*" element={<Hero />} />

@@ -11,8 +11,9 @@ export default function Search() {
   const handleSearch = (e) => {
     const searchTerm = e.target.value;
     setSearchTerm(searchTerm);
-    const filteredResults = CAData.filter((professional) =>
-      professional.name.toLowerCase().includes(searchTerm.toLowerCase())
+    const filteredResults = CAData.filter(
+      (professional) =>
+        professional.name.toLowerCase().includes(searchTerm.toLowerCase()) //convertes the text to lower case no matter what user inputs
     );
     setSearchResults(filteredResults);
   };
@@ -41,7 +42,7 @@ export default function Search() {
           {searchResults.map((result, id) => (
             <li
               key={result.id}
-              className="flex justify-between   rounded-xl hover:bg-blue-50 "
+              className="flex justify-between   rounded-xl hover:bg-blue-100 "
             >
               <h3 className="mt-2 p-2">{result.name}</h3>
               <Link to={`/details`}>
@@ -49,6 +50,7 @@ export default function Search() {
                   Details
                 </button>
               </Link>
+              {/* on click navigates to another Detail page */}
             </li>
           ))}
         </ul>
