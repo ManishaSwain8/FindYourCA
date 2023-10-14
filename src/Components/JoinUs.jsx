@@ -13,7 +13,7 @@ export default function JoinUs() {
         </h1>
         <p className="text-gray-500 mt-6 font-semibold text-lg">
           To remain with us ,it is essential that you diligently follow the
-          steps provided
+          steps provided.
         </p>
       </div>
 
