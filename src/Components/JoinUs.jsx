@@ -1,5 +1,6 @@
 import React from "react";
-import JoinUsData from "./JoinUsData";
+import JoinUsData from "./JoinusData.js";
+
 export default function JoinUs() {
   return (
     <div className="mt-36 ">
