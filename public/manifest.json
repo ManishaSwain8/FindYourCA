@@ -32,6 +32,6 @@
   "background_color": "#e0cc3b",
   "display": "standalone",
   "scope": "/",
-  "start_url": "/",
+  "start_url": ".",
   "orientation": "portrait"
 }
