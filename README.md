@@ -1,8 +1,17 @@
-# React + Vite
+### Main Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Screenshot (221)](https://github.com/ManishaSwain8/FindYourCA/assets/96622693/67418097-f211-47d1-b175-cd57c2d86890)
 
-Currently, two official plugins are available:
+![Screenshot (222)](https://github.com/ManishaSwain8/FindYourCA/assets/96622693/6f6aecb6-cd59-4d0c-88e9-e3a6508e414b)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot (223)](https://github.com/ManishaSwain8/FindYourCA/assets/96622693/b503d953-71c6-43e9-be0f-97c9fec3aaea)
+
+
+![Screenshot (224)](https://github.com/ManishaSwain8/FindYourCA/assets/96622693/0b60dbcd-b72a-4cba-a4ca-fd22a469e0d7)
+
+
+### Details Page
+
+![Screenshot (225)](https://github.com/ManishaSwain8/FindYourCA/assets/96622693/53bae113-2df6-4f56-9612-54d6d390fa01)
+
+![Screenshot (226)](https://github.com/ManishaSwain8/FindYourCA/assets/96622693/5b0885a3-1fe4-4a26-a595-7e808c9b660f)
